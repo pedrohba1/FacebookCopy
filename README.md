@@ -10,6 +10,7 @@
 pequeno projeto parte do curso gostack. A ideia é recriar a interface do facebook.
 Aproveitei a oportunidade para rever algumas capacidades do bootstrap 4.
 Imagem ilustrativa:
+![img](https://github.com/pedrohba1/FacebookCopy/blob/master/readme_stuff/exemplo.png)
 
 ## Getting Started <a name = "getting_started"></a>
 
